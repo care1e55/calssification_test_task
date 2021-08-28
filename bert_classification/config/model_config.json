@@ -1,0 +1,12 @@
+{
+    "data_path": "junior_no_test.csv",
+    "batch_size": 64,
+    "max_seq_length": 128,
+    "num_classes": 13,
+    "pretrained_model_name": "DeepPavlov/rubert-base-cased",
+    "cuda_device": 1,
+    "epochs": 20,
+    "lr": 2e-4,
+    "log_dir": "logs/",
+    "out_model_path": "bert_for_classification.model"
+}

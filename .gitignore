@@ -1,0 +1,13 @@
+.vscode/
+data/
+notebooks/
+*venv/
+*.pt
+*logs
+*checkpoint*
+*__pycache__
+*.ipynb_checkpoints
+*.pkl
+*serialization-dir/
+*.csv
+*intent_codes.json
